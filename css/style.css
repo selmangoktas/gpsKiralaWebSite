@@ -1,0 +1,36 @@
+﻿  
+
+.container-full {
+	width: 100%;
+	background-image: url('images/topbarbg.jpg');
+	margin-bottom: 15px;
+}
+
+.container-full .top-head-description {
+	color: #bababa;
+	margin: 8px 0 6px 20px;
+	font-size: 14px;
+}
+
+.container-full .top-head-social .icons {
+	float: right;
+	margin-top: -50px;
+	margin-right: 20px;
+	margin-bottom: 6px;
+}
+
+.container-full .top-head-social .icons a {
+	float: right;
+
+	margin-left: 5px;
+}
+
+
+header #social .icons a {
+  float: right;
+  margin-left: 5px;
+}
+
+.icons {
+	margin-top: 15px;
+}
